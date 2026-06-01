@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/sogb08/typescript-for-javascript-developper/issues"
   },
-  "homepage": "https://github.com/sogb08/typescript-for-javascript-developper#readme"
+  "homepage": "https://github.com/sogb08/typescript-for-javascript-developper#readme",
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
 }
