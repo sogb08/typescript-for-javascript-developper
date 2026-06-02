@@ -1,3 +1,3 @@
-let message: string = 'hello, TypeScript!';
+let message: string = 'sogabe, TypeScript!';
 
-console.log({ message });
+console.log({ message});
